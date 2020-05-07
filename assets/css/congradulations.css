@@ -1,0 +1,22 @@
+h1, h2, h3, h4, h5, h6 {
+    font-family: "Lemon Milk";
+  }
+
+.container1{
+    display: block;
+    align-items: center;
+    justify-content: center;
+    margin: 200px 0px 0px 0px;
+};
+
+.container2{
+    display: flex;
+    justify-content: center;
+    margin: 10px;
+};
+
+.container3{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+};
